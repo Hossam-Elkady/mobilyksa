@@ -7,7 +7,7 @@ import { fromEvent } from 'rxjs';
     styleUrls: ['./app.component.scss']
 })
 export class AppComponent implements OnInit {
-    title = 'mobily';
+    title = 'mobilyKsa';
     showWhatsapp: boolean = false;
 
     ngOnInit() {
